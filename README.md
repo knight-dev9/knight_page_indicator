@@ -20,7 +20,8 @@ IndicatorLayout(
   totalCount: yourLength()
 );
 ```
-# Attributes
+
+## Basic Indicator Attributes
 | Attributes                  | Type        | Description                                             |
 |-----------------------------|-------------|---------------------------------------------------------|
 | `unselectedBackgroundColor` | Color?      | Background color of the unselected / default indicator. |
@@ -41,7 +42,8 @@ IndicatorLayout(
   totalCount: yourLength()
 );
 ```
-# Attributes
+
+## Widget Indicator Attributes
 | Attributes          | Type      | Description                                   |
 |---------------------|-----------|-----------------------------------------------|
 | `unselectedWidget`  | Widget    | Widget of the unselected / default indicator. |
