@@ -1,4 +1,7 @@
 A simple widget to display indicators embedded with different styles.
+## Preview Demo
+![Video Demo](assets/demo.gif)
+
 ## Usage
 Two required arguments are the current and totalCount.
 Pass the current index to the argument "current" and your total length to the argument "totalCount".
