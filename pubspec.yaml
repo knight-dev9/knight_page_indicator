@@ -1,6 +1,6 @@
 name: knight_page_indicator
 description: "A simple widget to display indicators embedded with different styles."
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/knight-dev9/knight_page_indicator
 
 environment:
